@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookkeeping.Api", "Bookkeeping.Api\Bookkeeping.Api.csproj", "{F44CAC83-A815-4E8A-846F-0FD6ACCE4104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F44CAC83-A815-4E8A-846F-0FD6ACCE4104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44CAC83-A815-4E8A-846F-0FD6ACCE4104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44CAC83-A815-4E8A-846F-0FD6ACCE4104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44CAC83-A815-4E8A-846F-0FD6ACCE4104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
